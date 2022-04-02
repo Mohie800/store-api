@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "productName": "trtre",
+      "productPrice": "12",
+      "url": "https://ucarecdn.com/359c8b1a-2ed8-4fb9-839d-54fee80d0a43//-/smart_resize/440x300/-/quality/smart/",
+      "id": 16
+    },
+    {
+      "productName": "fdsdfdf",
+      "productPrice": "323",
+      "url": "https://ucarecdn.com/752620cd-e5ef-4834-b2f3-4bb3c898d0fa//-/smart_resize/440x300/-/quality/smart/",
+      "id": 17
+    }
+  ]
+}
